@@ -1,0 +1,5 @@
+/.expo
+node_modules
+e2e
+.storybook
+metro.config.js
