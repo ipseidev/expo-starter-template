@@ -1,4 +1,4 @@
-# tr_mobile_app_expo
+# EXPO STARTER TEMPLATE
 
 
 
@@ -22,7 +22,6 @@ git push -uf origin main
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/theresidency/mobile/tr_mobile_app_expo/-/settings/integrations)
 
 ## Collaborate with your team
 
